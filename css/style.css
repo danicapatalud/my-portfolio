@@ -417,6 +417,7 @@ h6 {
 .mobile-nav-active .mobile-nav {
   opacity: 1;
   visibility: visible;
+  overflow: visible;
 }
 
 .mobile-nav-active .mobile-nav-toggle i {
